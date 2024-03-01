@@ -1,11 +1,11 @@
 % Változók definiálása
 a = 2;
 t = 5;
-k_minus = -3;
-k_plus = 3;
+k_minus = -6;
+k_plus = 6;
 
 % A szám, aminek a normalizált alakját szeretnénk meghatározni
-szam = 1.5625;
+szam = 31/384;
 
 % A szám egész és tört részének különválasztása
 egesz_resz = floor(szam);
